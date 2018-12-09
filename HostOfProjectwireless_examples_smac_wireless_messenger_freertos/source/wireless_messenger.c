@@ -522,6 +522,7 @@ void main_task(uint32_t param)
       (void)OSA_EventWait(gTaskEvent, gEventsAll_c, FALSE, 100 ,&gTaskEventFlags);
       HandleEvents(gTaskEventFlags);
       ConsoleWM();
+
       if((char)gu8UartData=='a'){
     	  ready=1;
       }
@@ -542,6 +543,31 @@ void main_task(uint32_t param)
       }
       if((char)gu8UartData=='g'){
     	  Data[2]=0;
+      }
+
+      if(Timeouts[0]==0&&Timeouts[1]==0&&Timeouts[2]==0){
+    	  Serial_Print(mAppSer, "a",gAllowToBlock_d);
+      }
+      if(Timeouts[0]==0&&Timeouts[1]==0&&Timeouts[2]==1){
+    	  Serial_Print(mAppSer, "b",gAllowToBlock_d);
+      }
+      if(Timeouts[0]==0&&Timeouts[1]==1&&Timeouts[2]==0){
+    	  Serial_Print(mAppSer, "c",gAllowToBlock_d);
+      }
+      if(Timeouts[0]==0&&Timeouts[1]==1&&Timeouts[2]==1){
+    	  Serial_Print(mAppSer, "d",gAllowToBlock_d);
+      }
+      if(Timeouts[0]==1&&Timeouts[1]==0&&Timeouts[2]==0){
+    	  Serial_Print(mAppSer, "e",gAllowToBlock_d);
+      }
+      if(Timeouts[0]==1&&Timeouts[1]==0&&Timeouts[2]==1){
+    	  Serial_Print(mAppSer, "f",gAllowToBlock_d);
+      }
+      if(Timeouts[0]==1&&Timeouts[1]==1&&Timeouts[2]==0){
+    	  Serial_Print(mAppSer, "g",gAllowToBlock_d);
+      }
+      if(Timeouts[0]==1&&Timeouts[1]==1&&Timeouts[2]==1){
+    	  Serial_Print(mAppSer, "h",gAllowToBlock_d);
       }
 
       if (gUseRtos_c == 0)
