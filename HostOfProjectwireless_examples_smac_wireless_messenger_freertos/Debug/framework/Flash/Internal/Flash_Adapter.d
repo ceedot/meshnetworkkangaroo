@@ -1,7 +1,7 @@
 framework/Flash/Internal/Flash_Adapter.o \
  framework/Flash/Internal/Flash_Adapter.d: \
  ../framework/Flash/Internal/Flash_Adapter.c \
- C:/Users/Callum/Documents/MCUXpressoIDE_10.2.1_795/workspace/Projectwireless_examples_smac_wireless_messenger_freertos/source/app_preinclude.h \
+ C:/Users/Callum/Documents/MCUXpressoIDE_10.2.1_795/workspace/HostOfProjectwireless_examples_smac_wireless_messenger_freertos/source/app_preinclude.h \
  ../framework/Flash/Internal/Flash_Adapter.h \
  ../framework/common/EmbeddedTypes.h ../drivers/fsl_flash.h \
  ../drivers/fsl_common.h ../CMSIS/fsl_device_registers.h \
@@ -13,7 +13,7 @@ framework/Flash/Internal/Flash_Adapter.o \
  ../framework/OSAbstraction/Interface/fsl_os_abstraction_config.h \
  ../framework/Panic/Interface/Panic.h
 
-C:/Users/Callum/Documents/MCUXpressoIDE_10.2.1_795/workspace/Projectwireless_examples_smac_wireless_messenger_freertos/source/app_preinclude.h:
+C:/Users/Callum/Documents/MCUXpressoIDE_10.2.1_795/workspace/HostOfProjectwireless_examples_smac_wireless_messenger_freertos/source/app_preinclude.h:
 
 ../framework/Flash/Internal/Flash_Adapter.h:
 

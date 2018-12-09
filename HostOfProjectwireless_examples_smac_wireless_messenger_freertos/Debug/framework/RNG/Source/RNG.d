@@ -1,6 +1,6 @@
 framework/RNG/Source/RNG.o framework/RNG/Source/RNG.d: \
  ../framework/RNG/Source/RNG.c \
- C:/Users/Callum/Documents/MCUXpressoIDE_10.2.1_795/workspace/Projectwireless_examples_smac_wireless_messenger_freertos/source/app_preinclude.h \
+ C:/Users/Callum/Documents/MCUXpressoIDE_10.2.1_795/workspace/HostOfProjectwireless_examples_smac_wireless_messenger_freertos/source/app_preinclude.h \
  ../framework/RNG/Interface/RNG_Interface.h \
  ../framework/common/EmbeddedTypes.h \
  ../framework/FunctionLib/FunctionLib.h ../framework/SecLib/SecLib.h \
@@ -13,7 +13,7 @@ framework/RNG/Source/RNG.o framework/RNG/Source/RNG.d: \
  ../drivers/fsl_common.h ../drivers/fsl_clock.h ../drivers/fsl_common.h \
  ../drivers/fsl_trng.h
 
-C:/Users/Callum/Documents/MCUXpressoIDE_10.2.1_795/workspace/Projectwireless_examples_smac_wireless_messenger_freertos/source/app_preinclude.h:
+C:/Users/Callum/Documents/MCUXpressoIDE_10.2.1_795/workspace/HostOfProjectwireless_examples_smac_wireless_messenger_freertos/source/app_preinclude.h:
 
 ../framework/RNG/Interface/RNG_Interface.h:
 

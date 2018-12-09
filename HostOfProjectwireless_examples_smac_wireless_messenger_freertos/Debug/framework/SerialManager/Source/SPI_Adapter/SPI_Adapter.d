@@ -1,7 +1,7 @@
 framework/SerialManager/Source/SPI_Adapter/SPI_Adapter.o \
  framework/SerialManager/Source/SPI_Adapter/SPI_Adapter.d: \
  ../framework/SerialManager/Source/SPI_Adapter/SPI_Adapter.c \
- C:/Users/Callum/Documents/MCUXpressoIDE_10.2.1_795/workspace/Projectwireless_examples_smac_wireless_messenger_freertos/source/app_preinclude.h \
+ C:/Users/Callum/Documents/MCUXpressoIDE_10.2.1_795/workspace/HostOfProjectwireless_examples_smac_wireless_messenger_freertos/source/app_preinclude.h \
  ../framework/SerialManager/Source/SPI_Adapter/SPI_Adapter.h \
  ../framework/common/EmbeddedTypes.h ../CMSIS/fsl_device_registers.h \
  ../CMSIS/MKW41Z4.h ../CMSIS/core_cm0plus.h ../CMSIS/core_cmInstr.h \
@@ -14,7 +14,7 @@ framework/SerialManager/Source/SPI_Adapter/SPI_Adapter.o \
  ../framework/OSAbstraction/Interface/fsl_os_abstraction_config.h \
  ../drivers/fsl_dspi.h
 
-C:/Users/Callum/Documents/MCUXpressoIDE_10.2.1_795/workspace/Projectwireless_examples_smac_wireless_messenger_freertos/source/app_preinclude.h:
+C:/Users/Callum/Documents/MCUXpressoIDE_10.2.1_795/workspace/HostOfProjectwireless_examples_smac_wireless_messenger_freertos/source/app_preinclude.h:
 
 ../framework/SerialManager/Source/SPI_Adapter/SPI_Adapter.h:
 

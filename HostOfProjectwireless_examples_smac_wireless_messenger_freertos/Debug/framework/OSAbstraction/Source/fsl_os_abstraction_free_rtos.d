@@ -1,7 +1,7 @@
 framework/OSAbstraction/Source/fsl_os_abstraction_free_rtos.o \
  framework/OSAbstraction/Source/fsl_os_abstraction_free_rtos.d: \
  ../framework/OSAbstraction/Source/fsl_os_abstraction_free_rtos.c \
- C:/Users/Callum/Documents/MCUXpressoIDE_10.2.1_795/workspace/Projectwireless_examples_smac_wireless_messenger_freertos/source/app_preinclude.h \
+ C:/Users/Callum/Documents/MCUXpressoIDE_10.2.1_795/workspace/HostOfProjectwireless_examples_smac_wireless_messenger_freertos/source/app_preinclude.h \
  ../framework/common/EmbeddedTypes.h \
  ../framework/OSAbstraction/Interface/fsl_os_abstraction.h \
  ../framework/OSAbstraction/Interface/fsl_os_abstraction_config.h \
@@ -17,7 +17,7 @@ framework/OSAbstraction/Source/fsl_os_abstraction_free_rtos.o \
  ../CMSIS/MKW41Z4_features.h ../drivers/fsl_clock.h \
  ../drivers/fsl_common.h ../framework/Panic/Interface/Panic.h
 
-C:/Users/Callum/Documents/MCUXpressoIDE_10.2.1_795/workspace/Projectwireless_examples_smac_wireless_messenger_freertos/source/app_preinclude.h:
+C:/Users/Callum/Documents/MCUXpressoIDE_10.2.1_795/workspace/HostOfProjectwireless_examples_smac_wireless_messenger_freertos/source/app_preinclude.h:
 
 ../framework/common/EmbeddedTypes.h:
 

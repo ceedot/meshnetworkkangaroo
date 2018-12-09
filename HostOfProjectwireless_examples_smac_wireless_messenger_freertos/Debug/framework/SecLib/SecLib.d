@@ -1,6 +1,6 @@
 framework/SecLib/SecLib.o framework/SecLib/SecLib.d: \
  ../framework/SecLib/SecLib.c \
- C:/Users/Callum/Documents/MCUXpressoIDE_10.2.1_795/workspace/Projectwireless_examples_smac_wireless_messenger_freertos/source/app_preinclude.h \
+ C:/Users/Callum/Documents/MCUXpressoIDE_10.2.1_795/workspace/HostOfProjectwireless_examples_smac_wireless_messenger_freertos/source/app_preinclude.h \
  ../framework/MemManager/Interface/MemManager.h \
  ../framework/common/EmbeddedTypes.h ../framework/Lists/GenericList.h \
  ../framework/FunctionLib/FunctionLib.h ../framework/SecLib/SecLib.h \
@@ -13,7 +13,7 @@ framework/SecLib/SecLib.o framework/SecLib/SecLib.d: \
  ../framework/Panic/Interface/Panic.h ../drivers/fsl_ltc.h \
  ../drivers/fsl_common.h ../drivers/fsl_clock.h
 
-C:/Users/Callum/Documents/MCUXpressoIDE_10.2.1_795/workspace/Projectwireless_examples_smac_wireless_messenger_freertos/source/app_preinclude.h:
+C:/Users/Callum/Documents/MCUXpressoIDE_10.2.1_795/workspace/HostOfProjectwireless_examples_smac_wireless_messenger_freertos/source/app_preinclude.h:
 
 ../framework/MemManager/Interface/MemManager.h:
 

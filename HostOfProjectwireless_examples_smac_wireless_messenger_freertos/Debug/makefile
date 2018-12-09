@@ -72,7 +72,7 @@ clean:
 
 post-build:
 	-@echo 'Performing post-build steps'
-	-arm-none-eabi-size "HostOfProjectwireless_examples_smac_wireless_messenger_freertos.axf"; # arm-none-eabi-objcopy -v -O binary "HostOfProjectwireless_examples_smac_wireless_messenger_freertos.axf" "HostOfProjectwireless_examples_smac_wireless_messenger_freertos.bin" ; # checksum -p MKW41Z512xxx4 -d "HostOfProjectwireless_examples_smac_wireless_messenger_freertos.bin";
+	-arm-none-eabi-size "HostOfProjectwireless_examples_smac_wireless_messenger_freertos.axf" ;  arm-none-eabi-objcopy -v -O binary "HostOfProjectwireless_examples_smac_wireless_messenger_freertos.axf" "HostOfProjectwireless_examples_smac_wireless_messenger_freertos.bin" ; checksum -p MKW41Z512xxx4 -d "HostOfProjectwireless_examples_smac_wireless_messenger_freertos.bin"
 	-@echo ' '
 
 .PHONY: all clean dependents post-build

@@ -1,7 +1,7 @@
 framework/TimersManager/Source/TimersManager.o \
  framework/TimersManager/Source/TimersManager.d: \
  ../framework/TimersManager/Source/TimersManager.c \
- C:/Users/Callum/Documents/MCUXpressoIDE_10.2.1_795/workspace/Projectwireless_examples_smac_wireless_messenger_freertos/source/app_preinclude.h \
+ C:/Users/Callum/Documents/MCUXpressoIDE_10.2.1_795/workspace/HostOfProjectwireless_examples_smac_wireless_messenger_freertos/source/app_preinclude.h \
  ../framework/common/EmbeddedTypes.h \
  ../framework/TimersManager/Source/TimersManagerInternal.h \
  ../framework/TimersManager/Interface/TimersManager.h \
@@ -17,7 +17,7 @@ framework/TimersManager/Source/TimersManager.o \
  ../drivers/fsl_common.h ../drivers/fsl_clock.h ../board/pin_mux.h \
  ../board/clock_config.h
 
-C:/Users/Callum/Documents/MCUXpressoIDE_10.2.1_795/workspace/Projectwireless_examples_smac_wireless_messenger_freertos/source/app_preinclude.h:
+C:/Users/Callum/Documents/MCUXpressoIDE_10.2.1_795/workspace/HostOfProjectwireless_examples_smac_wireless_messenger_freertos/source/app_preinclude.h:
 
 ../framework/common/EmbeddedTypes.h:
 

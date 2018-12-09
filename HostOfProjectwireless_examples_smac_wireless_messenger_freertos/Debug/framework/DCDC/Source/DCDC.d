@@ -1,6 +1,6 @@
 framework/DCDC/Source/DCDC.o framework/DCDC/Source/DCDC.d: \
  ../framework/DCDC/Source/DCDC.c \
- C:/Users/Callum/Documents/MCUXpressoIDE_10.2.1_795/workspace/Projectwireless_examples_smac_wireless_messenger_freertos/source/app_preinclude.h \
+ C:/Users/Callum/Documents/MCUXpressoIDE_10.2.1_795/workspace/HostOfProjectwireless_examples_smac_wireless_messenger_freertos/source/app_preinclude.h \
  ../framework/common/EmbeddedTypes.h ../framework/DCDC/Interface/DCDC.h \
  ../drivers/fsl_adc16.h ../drivers/fsl_common.h \
  ../CMSIS/fsl_device_registers.h ../CMSIS/MKW41Z4.h \
@@ -12,7 +12,7 @@ framework/DCDC/Source/DCDC.o framework/DCDC/Source/DCDC.d: \
  ../framework/OSAbstraction/Interface/fsl_os_abstraction_config.h \
  ../board/board.h ../drivers/fsl_gpio.h
 
-C:/Users/Callum/Documents/MCUXpressoIDE_10.2.1_795/workspace/Projectwireless_examples_smac_wireless_messenger_freertos/source/app_preinclude.h:
+C:/Users/Callum/Documents/MCUXpressoIDE_10.2.1_795/workspace/HostOfProjectwireless_examples_smac_wireless_messenger_freertos/source/app_preinclude.h:
 
 ../framework/common/EmbeddedTypes.h:
 

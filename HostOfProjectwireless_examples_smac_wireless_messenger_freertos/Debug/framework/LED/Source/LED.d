@@ -1,6 +1,6 @@
 framework/LED/Source/LED.o framework/LED/Source/LED.d: \
  ../framework/LED/Source/LED.c \
- C:/Users/Callum/Documents/MCUXpressoIDE_10.2.1_795/workspace/Projectwireless_examples_smac_wireless_messenger_freertos/source/app_preinclude.h \
+ C:/Users/Callum/Documents/MCUXpressoIDE_10.2.1_795/workspace/HostOfProjectwireless_examples_smac_wireless_messenger_freertos/source/app_preinclude.h \
  ../framework/LED/Interface/LED.h ../framework/common/EmbeddedTypes.h \
  ../board/board.h ../drivers/fsl_gpio.h ../drivers/fsl_common.h \
  ../CMSIS/fsl_device_registers.h ../CMSIS/MKW41Z4.h \
@@ -13,7 +13,7 @@ framework/LED/Source/LED.o framework/LED/Source/LED.d: \
  ../framework/OSAbstraction/Interface/fsl_os_abstraction_config.h \
  ../framework/TimersManager/Source/TMR_Adapter.h
 
-C:/Users/Callum/Documents/MCUXpressoIDE_10.2.1_795/workspace/Projectwireless_examples_smac_wireless_messenger_freertos/source/app_preinclude.h:
+C:/Users/Callum/Documents/MCUXpressoIDE_10.2.1_795/workspace/HostOfProjectwireless_examples_smac_wireless_messenger_freertos/source/app_preinclude.h:
 
 ../framework/LED/Interface/LED.h:
 

@@ -154,7 +154,7 @@ Discarded input sections
                 0x00000000       0x38 ./utilities/fsl_debug_console.o
  .debug_ranges  0x00000000       0x28 ./utilities/fsl_debug_console.o
  .debug_line    0x00000000      0x1c1 ./utilities/fsl_debug_console.o
- .debug_str     0x00000000      0xaf9 ./utilities/fsl_debug_console.o
+ .debug_str     0x00000000      0xaff ./utilities/fsl_debug_console.o
  .comment       0x00000000       0x7f ./utilities/fsl_debug_console.o
  .debug_frame   0x00000000       0x8c ./utilities/fsl_debug_console.o
  .ARM.attributes
@@ -170,7 +170,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 ./source/mtb.o
  .debug_line    0x00000000       0x30 ./source/mtb.o
- .debug_str     0x00000000      0x171 ./source/mtb.o
+ .debug_str     0x00000000      0x177 ./source/mtb.o
  .comment       0x00000000       0x7f ./source/mtb.o
  .ARM.attributes
                 0x00000000       0x32 ./source/mtb.o
@@ -231,7 +231,7 @@ Discarded input sections
                 0x00000000       0x20 ./source/wireless_messenger_menus.o
  .debug_ranges  0x00000000       0x10 ./source/wireless_messenger_menus.o
  .debug_line    0x00000000      0x146 ./source/wireless_messenger_menus.o
- .debug_str     0x00000000      0x29f ./source/wireless_messenger_menus.o
+ .debug_str     0x00000000      0x2a5 ./source/wireless_messenger_menus.o
  .comment       0x00000000       0x7f ./source/wireless_messenger_menus.o
  .debug_frame   0x00000000       0x30 ./source/wireless_messenger_menus.o
  .ARM.attributes
@@ -267,7 +267,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 ./ieee_802.15.4/phy/source/MKW41Z/ASP.o
  .debug_line    0x00000000      0x1bd ./ieee_802.15.4/phy/source/MKW41Z/ASP.o
- .debug_str     0x00000000     0x1a6b ./ieee_802.15.4/phy/source/MKW41Z/ASP.o
+ .debug_str     0x00000000     0x1a71 ./ieee_802.15.4/phy/source/MKW41Z/ASP.o
  .comment       0x00000000       0x7f ./ieee_802.15.4/phy/source/MKW41Z/ASP.o
  .ARM.attributes
                 0x00000000       0x32 ./ieee_802.15.4/phy/source/MKW41Z/ASP.o
@@ -284,7 +284,7 @@ Discarded input sections
                 0x00000000       0x28 ./ieee_802.15.4/phy/source/MKW41Z/MPM.o
  .debug_ranges  0x00000000       0x18 ./ieee_802.15.4/phy/source/MKW41Z/MPM.o
  .debug_line    0x00000000      0x1a9 ./ieee_802.15.4/phy/source/MKW41Z/MPM.o
- .debug_str     0x00000000      0x3ad ./ieee_802.15.4/phy/source/MKW41Z/MPM.o
+ .debug_str     0x00000000      0x3b3 ./ieee_802.15.4/phy/source/MKW41Z/MPM.o
  .comment       0x00000000       0x7f ./ieee_802.15.4/phy/source/MKW41Z/MPM.o
  .debug_frame   0x00000000       0x50 ./ieee_802.15.4/phy/source/MKW41Z/MPM.o
  .ARM.attributes
@@ -406,7 +406,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 ./freertos/croutine.o
  .debug_line    0x00000000       0x6d ./freertos/croutine.o
- .debug_str     0x00000000      0x21d ./freertos/croutine.o
+ .debug_str     0x00000000      0x223 ./freertos/croutine.o
  .comment       0x00000000       0x7f ./freertos/croutine.o
  .ARM.attributes
                 0x00000000       0x32 ./freertos/croutine.o
@@ -441,7 +441,7 @@ Discarded input sections
                 0x00000000       0x20 ./freertos/fsl_tickless_systick.o
  .debug_ranges  0x00000000       0x10 ./freertos/fsl_tickless_systick.o
  .debug_line    0x00000000       0xfb ./freertos/fsl_tickless_systick.o
- .debug_str     0x00000000      0x264 ./freertos/fsl_tickless_systick.o
+ .debug_str     0x00000000      0x26a ./freertos/fsl_tickless_systick.o
  .comment       0x00000000       0x7f ./freertos/fsl_tickless_systick.o
  .debug_frame   0x00000000       0x2c ./freertos/fsl_tickless_systick.o
  .ARM.attributes
@@ -639,7 +639,7 @@ Discarded input sections
                 0x00000000       0x28 ./framework/XCVR/MKW41Z4/dbg_ram_capture.o
  .debug_ranges  0x00000000       0x18 ./framework/XCVR/MKW41Z4/dbg_ram_capture.o
  .debug_line    0x00000000      0x1cd ./framework/XCVR/MKW41Z4/dbg_ram_capture.o
- .debug_str     0x00000000     0x1f7a ./framework/XCVR/MKW41Z4/dbg_ram_capture.o
+ .debug_str     0x00000000     0x1f80 ./framework/XCVR/MKW41Z4/dbg_ram_capture.o
  .comment       0x00000000       0x7f ./framework/XCVR/MKW41Z4/dbg_ram_capture.o
  .debug_frame   0x00000000       0x4c ./framework/XCVR/MKW41Z4/dbg_ram_capture.o
  .ARM.attributes
@@ -969,7 +969,7 @@ Discarded input sections
                 0x00000000       0xe0 ./framework/SerialManager/Source/SPI_Adapter/SPI_Adapter.o
  .debug_ranges  0x00000000       0xd0 ./framework/SerialManager/Source/SPI_Adapter/SPI_Adapter.o
  .debug_line    0x00000000      0x577 ./framework/SerialManager/Source/SPI_Adapter/SPI_Adapter.o
- .debug_str     0x00000000     0x1472 ./framework/SerialManager/Source/SPI_Adapter/SPI_Adapter.o
+ .debug_str     0x00000000     0x1478 ./framework/SerialManager/Source/SPI_Adapter/SPI_Adapter.o
  .comment       0x00000000       0x7f ./framework/SerialManager/Source/SPI_Adapter/SPI_Adapter.o
  .debug_frame   0x00000000      0x330 ./framework/SerialManager/Source/SPI_Adapter/SPI_Adapter.o
  .ARM.attributes
@@ -1012,7 +1012,7 @@ Discarded input sections
                 0x00000000       0x78 ./framework/SerialManager/Source/I2C_Adapter/I2C_Adapter.o
  .debug_ranges  0x00000000       0x68 ./framework/SerialManager/Source/I2C_Adapter/I2C_Adapter.o
  .debug_line    0x00000000      0x3a7 ./framework/SerialManager/Source/I2C_Adapter/I2C_Adapter.o
- .debug_str     0x00000000      0xe2f ./framework/SerialManager/Source/I2C_Adapter/I2C_Adapter.o
+ .debug_str     0x00000000      0xe35 ./framework/SerialManager/Source/I2C_Adapter/I2C_Adapter.o
  .comment       0x00000000       0x7f ./framework/SerialManager/Source/I2C_Adapter/I2C_Adapter.o
  .debug_frame   0x00000000      0x194 ./framework/SerialManager/Source/I2C_Adapter/I2C_Adapter.o
  .ARM.attributes
@@ -1125,7 +1125,7 @@ Discarded input sections
                 0x00000000       0x28 ./framework/Reset/Reset.o
  .debug_ranges  0x00000000       0x18 ./framework/Reset/Reset.o
  .debug_line    0x00000000      0x159 ./framework/Reset/Reset.o
- .debug_str     0x00000000      0x278 ./framework/Reset/Reset.o
+ .debug_str     0x00000000      0x27e ./framework/Reset/Reset.o
  .comment       0x00000000       0x7f ./framework/Reset/Reset.o
  .debug_frame   0x00000000       0x48 ./framework/Reset/Reset.o
  .ARM.attributes
@@ -1252,7 +1252,7 @@ Discarded input sections
                 0x00000000       0x98 ./framework/MWSCoexistence/Source/MWS.o
  .debug_ranges  0x00000000       0x88 ./framework/MWSCoexistence/Source/MWS.o
  .debug_line    0x00000000      0x2a9 ./framework/MWSCoexistence/Source/MWS.o
- .debug_str     0x00000000      0x59e ./framework/MWSCoexistence/Source/MWS.o
+ .debug_str     0x00000000      0x5a4 ./framework/MWSCoexistence/Source/MWS.o
  .comment       0x00000000       0x7f ./framework/MWSCoexistence/Source/MWS.o
  .debug_frame   0x00000000      0x200 ./framework/MWSCoexistence/Source/MWS.o
  .ARM.attributes
@@ -1305,7 +1305,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 ./framework/Keyboard/Source/Keyboard.o
  .debug_line    0x00000000      0x189 ./framework/Keyboard/Source/Keyboard.o
- .debug_str     0x00000000      0x5ec ./framework/Keyboard/Source/Keyboard.o
+ .debug_str     0x00000000      0x5f2 ./framework/Keyboard/Source/Keyboard.o
  .comment       0x00000000       0x7f ./framework/Keyboard/Source/Keyboard.o
  .ARM.attributes
                 0x00000000       0x32 ./framework/Keyboard/Source/Keyboard.o
@@ -1668,7 +1668,7 @@ Discarded input sections
                 0x00000000       0x38 ./drivers/fsl_dspi_freertos.o
  .debug_ranges  0x00000000       0x28 ./drivers/fsl_dspi_freertos.o
  .debug_line    0x00000000      0x1dd ./drivers/fsl_dspi_freertos.o
- .debug_str     0x00000000      0xa53 ./drivers/fsl_dspi_freertos.o
+ .debug_str     0x00000000      0xa59 ./drivers/fsl_dspi_freertos.o
  .comment       0x00000000       0x7f ./drivers/fsl_dspi_freertos.o
  .debug_frame   0x00000000       0x90 ./drivers/fsl_dspi_freertos.o
  .ARM.attributes
@@ -1780,7 +1780,7 @@ Discarded input sections
                 0x00000000      0x148 ./drivers/fsl_flash.o
  .debug_ranges  0x00000000      0x150 ./drivers/fsl_flash.o
  .debug_line    0x00000000      0x6a0 ./drivers/fsl_flash.o
- .debug_str     0x00000000     0x2033 ./drivers/fsl_flash.o
+ .debug_str     0x00000000     0x2039 ./drivers/fsl_flash.o
  .comment       0x00000000       0x7f ./drivers/fsl_flash.o
  .debug_frame   0x00000000      0x4d0 ./drivers/fsl_flash.o
  .ARM.attributes
@@ -1921,7 +1921,7 @@ Discarded input sections
                 0x00000000       0x38 ./drivers/fsl_i2c_freertos.o
  .debug_ranges  0x00000000       0x28 ./drivers/fsl_i2c_freertos.o
  .debug_line    0x00000000      0x1db ./drivers/fsl_i2c_freertos.o
- .debug_str     0x00000000      0x643 ./drivers/fsl_i2c_freertos.o
+ .debug_str     0x00000000      0x649 ./drivers/fsl_i2c_freertos.o
  .comment       0x00000000       0x7f ./drivers/fsl_i2c_freertos.o
  .debug_frame   0x00000000       0x90 ./drivers/fsl_i2c_freertos.o
  .ARM.attributes
@@ -1947,7 +1947,7 @@ Discarded input sections
                 0x00000000       0x48 ./drivers/fsl_llwu.o
  .debug_ranges  0x00000000       0x38 ./drivers/fsl_llwu.o
  .debug_line    0x00000000      0x1d6 ./drivers/fsl_llwu.o
- .debug_str     0x00000000      0x4ac ./drivers/fsl_llwu.o
+ .debug_str     0x00000000      0x4b2 ./drivers/fsl_llwu.o
  .comment       0x00000000       0x7f ./drivers/fsl_llwu.o
  .debug_frame   0x00000000       0xd0 ./drivers/fsl_llwu.o
  .ARM.attributes
@@ -1978,7 +1978,7 @@ Discarded input sections
                 0x00000000       0x48 ./drivers/fsl_lptmr.o
  .debug_ranges  0x00000000       0x38 ./drivers/fsl_lptmr.o
  .debug_line    0x00000000      0x1d2 ./drivers/fsl_lptmr.o
- .debug_str     0x00000000      0xd53 ./drivers/fsl_lptmr.o
+ .debug_str     0x00000000      0xd59 ./drivers/fsl_lptmr.o
  .comment       0x00000000       0x7f ./drivers/fsl_lptmr.o
  .debug_frame   0x00000000       0xd0 ./drivers/fsl_lptmr.o
  .ARM.attributes
@@ -2057,7 +2057,7 @@ Discarded input sections
                 0x00000000       0x50 ./drivers/fsl_lpuart_freertos.o
  .debug_ranges  0x00000000       0x40 ./drivers/fsl_lpuart_freertos.o
  .debug_line    0x00000000      0x29c ./drivers/fsl_lpuart_freertos.o
- .debug_str     0x00000000      0xafe ./drivers/fsl_lpuart_freertos.o
+ .debug_str     0x00000000      0xb04 ./drivers/fsl_lpuart_freertos.o
  .comment       0x00000000       0x7f ./drivers/fsl_lpuart_freertos.o
  .debug_frame   0x00000000       0xf0 ./drivers/fsl_lpuart_freertos.o
  .ARM.attributes
@@ -2164,7 +2164,7 @@ Discarded input sections
                 0x00000000       0x30 ./drivers/fsl_pmc.o
  .debug_ranges  0x00000000       0x20 ./drivers/fsl_pmc.o
  .debug_line    0x00000000      0x155 ./drivers/fsl_pmc.o
- .debug_str     0x00000000      0x4be ./drivers/fsl_pmc.o
+ .debug_str     0x00000000      0x4c4 ./drivers/fsl_pmc.o
  .comment       0x00000000       0x7f ./drivers/fsl_pmc.o
  .debug_frame   0x00000000       0x70 ./drivers/fsl_pmc.o
  .ARM.attributes
@@ -2205,7 +2205,7 @@ Discarded input sections
                 0x00000000       0x80 ./drivers/fsl_rtc.o
  .debug_ranges  0x00000000       0x70 ./drivers/fsl_rtc.o
  .debug_line    0x00000000      0x314 ./drivers/fsl_rtc.o
- .debug_str     0x00000000      0x728 ./drivers/fsl_rtc.o
+ .debug_str     0x00000000      0x72e ./drivers/fsl_rtc.o
  .comment       0x00000000       0x7f ./drivers/fsl_rtc.o
  .debug_frame   0x00000000      0x1b4 ./drivers/fsl_rtc.o
  .ARM.attributes
@@ -2240,7 +2240,7 @@ Discarded input sections
                 0x00000000       0x68 ./drivers/fsl_smc.o
  .debug_ranges  0x00000000       0x58 ./drivers/fsl_smc.o
  .debug_line    0x00000000      0x2cd ./drivers/fsl_smc.o
- .debug_str     0x00000000      0x757 ./drivers/fsl_smc.o
+ .debug_str     0x00000000      0x75d ./drivers/fsl_smc.o
  .comment       0x00000000       0x7f ./drivers/fsl_smc.o
  .debug_frame   0x00000000      0x150 ./drivers/fsl_smc.o
  .ARM.attributes
@@ -2341,7 +2341,7 @@ Discarded input sections
                 0x00000000       0xe0 ./drivers/fsl_tsi_v4.o
  .debug_ranges  0x00000000       0xd0 ./drivers/fsl_tsi_v4.o
  .debug_line    0x00000000      0x39f ./drivers/fsl_tsi_v4.o
- .debug_str     0x00000000     0x122c ./drivers/fsl_tsi_v4.o
+ .debug_str     0x00000000     0x1232 ./drivers/fsl_tsi_v4.o
  .comment       0x00000000       0x7f ./drivers/fsl_tsi_v4.o
  .debug_frame   0x00000000      0x334 ./drivers/fsl_tsi_v4.o
  .ARM.attributes
@@ -2438,7 +2438,7 @@ Discarded input sections
                 0x00000000       0x20 ./board/peripherals.o
  .debug_ranges  0x00000000       0x10 ./board/peripherals.o
  .debug_line    0x00000000       0x47 ./board/peripherals.o
- .debug_str     0x00000000      0x171 ./board/peripherals.o
+ .debug_str     0x00000000      0x177 ./board/peripherals.o
  .comment       0x00000000       0x7f ./board/peripherals.o
  .debug_frame   0x00000000       0x2c ./board/peripherals.o
  .ARM.attributes
@@ -5665,134 +5665,134 @@ OUTPUT(HostOfProjectwireless_examples_smac_wireless_messenger_freertos.axf elf32
  .debug_aranges
                 0x00002710       0x28 ./CMSIS/system_MKW41Z4.o
 
-.debug_str      0x00000000    0x149ab
- .debug_str     0x00000000       0xa9 ./startup/startup_MKW41Z4.o
- .debug_str     0x000000a9       0xf4 ./source/semihost_hardfault.o
-                                0x171 (size before relaxing)
- .debug_str     0x0000019d     0x156f ./source/wireless_messenger.o
+.debug_str      0x00000000    0x1492e
+ .debug_str     0x00000000       0xaf ./startup/startup_MKW41Z4.o
+ .debug_str     0x000000af       0xf4 ./source/semihost_hardfault.o
+                                0x177 (size before relaxing)
+ .debug_str     0x000001a3     0x14ec ./source/wireless_messenger.o
                                0x16b4 (size before relaxing)
- .debug_str     0x0000170c     0x10ea ./ieee_802.15.4/smac/source/SMAC.o
-                               0x19cb (size before relaxing)
- .debug_str     0x000027f6     0x1ded ./ieee_802.15.4/phy/source/MKW41Z/PhyISR.o
-                               0x261a (size before relaxing)
- .debug_str     0x000045e3      0x8f9 ./ieee_802.15.4/phy/source/MKW41Z/PhyPacketProcessor.o
-                               0x29e7 (size before relaxing)
- .debug_str     0x00004edc      0x203 ./ieee_802.15.4/phy/source/MKW41Z/PhyPlmeData.o
-                                0xfaf (size before relaxing)
- .debug_str     0x000050df      0x625 ./ieee_802.15.4/phy/source/MKW41Z/PhyStateMachine.o
-                               0x16b2 (size before relaxing)
- .debug_str     0x00005704      0x339 ./ieee_802.15.4/phy/source/MKW41Z/PhyTime.o
-                                0x82f (size before relaxing)
- .debug_str     0x00005a3d      0x3ab ./freertos/event_groups.o
-                                0x603 (size before relaxing)
- .debug_str     0x00005de8       0x38 ./freertos/fsl_tickless_lptmr.o
-                                0x262 (size before relaxing)
- .debug_str     0x00005e20      0x1d3 ./freertos/heap_4.o
-                                0x3e8 (size before relaxing)
- .debug_str     0x00005ff3       0x95 ./freertos/list.o
-                                0x35c (size before relaxing)
- .debug_str     0x00006088      0x168 ./freertos/port.o
-                                0x39e (size before relaxing)
- .debug_str     0x000061f0      0x554 ./freertos/queue.o
-                                0x8a7 (size before relaxing)
- .debug_str     0x00006744      0xc06 ./freertos/tasks.o
-                               0x1026 (size before relaxing)
- .debug_str     0x0000734a      0x4dd ./freertos/timers.o
-                                0x83e (size before relaxing)
- .debug_str     0x00007827       0x40 ./framework/XCVR/MKW41Z4/cfgs_kw4x_3x_2x/fsl_xcvr_ant_config.o
-                               0x17da (size before relaxing)
- .debug_str     0x00007867       0x40 ./framework/XCVR/MKW41Z4/cfgs_kw4x_3x_2x/fsl_xcvr_ble_config.o
-                               0x17da (size before relaxing)
- .debug_str     0x000078a7       0x43 ./framework/XCVR/MKW41Z4/cfgs_kw4x_3x_2x/fsl_xcvr_common_config.o
-                               0x17dd (size before relaxing)
- .debug_str     0x000078ea       0x4e ./framework/XCVR/MKW41Z4/cfgs_kw4x_3x_2x/fsl_xcvr_gfsk_bt_0p3_h_0p5_config.o
-                               0x17e8 (size before relaxing)
- .debug_str     0x00007938       0x4f ./framework/XCVR/MKW41Z4/cfgs_kw4x_3x_2x/fsl_xcvr_gfsk_bt_0p5_h_0p32_config.o
-                               0x17e9 (size before relaxing)
- .debug_str     0x00007987       0x4e ./framework/XCVR/MKW41Z4/cfgs_kw4x_3x_2x/fsl_xcvr_gfsk_bt_0p5_h_0p5_config.o
-                               0x17e8 (size before relaxing)
- .debug_str     0x000079d5       0x4e ./framework/XCVR/MKW41Z4/cfgs_kw4x_3x_2x/fsl_xcvr_gfsk_bt_0p5_h_0p7_config.o
-                               0x17e8 (size before relaxing)
- .debug_str     0x00007a23       0x4e ./framework/XCVR/MKW41Z4/cfgs_kw4x_3x_2x/fsl_xcvr_gfsk_bt_0p5_h_1p0_config.o
-                               0x17e8 (size before relaxing)
- .debug_str     0x00007a71       0x4e ./framework/XCVR/MKW41Z4/cfgs_kw4x_3x_2x/fsl_xcvr_gfsk_bt_0p7_h_0p5_config.o
-                               0x17e8 (size before relaxing)
- .debug_str     0x00007abf       0x4a ./framework/XCVR/MKW41Z4/cfgs_kw4x_3x_2x/fsl_xcvr_mode_datarate_config.o
-                               0x17e4 (size before relaxing)
- .debug_str     0x00007b09       0x40 ./framework/XCVR/MKW41Z4/cfgs_kw4x_3x_2x/fsl_xcvr_msk_config.o
-                               0x17da (size before relaxing)
- .debug_str     0x00007b49       0x41 ./framework/XCVR/MKW41Z4/cfgs_kw4x_3x_2x/fsl_xcvr_zgbe_config.o
-                               0x17db (size before relaxing)
- .debug_str     0x00007b8a     0x12f9 ./framework/XCVR/MKW41Z4/fsl_xcvr.o
-                               0x33fd (size before relaxing)
- .debug_str     0x00008e83      0x58a ./framework/XCVR/MKW41Z4/fsl_xcvr_trim.o
-                               0x2af2 (size before relaxing)
- .debug_str     0x0000940d      0x295 ./framework/XCVR/MKW41Z4/ifr_radio.o
-                               0x1b7d (size before relaxing)
- .debug_str     0x000096a2      0x920 ./framework/TimersManager/Source/TMR_Adapter.o
-                               0x12fa (size before relaxing)
- .debug_str     0x00009fc2      0xd81 ./framework/TimersManager/Source/TimersManager.o
-                               0x1796 (size before relaxing)
- .debug_str     0x0000ad43      0x78c ./framework/SerialManager/Source/UART_Adapter/UART_Adapter.o
-                               0x11d4 (size before relaxing)
- .debug_str     0x0000b4cf      0x7e9 ./framework/SerialManager/Source/SerialManager.o
-                               0x1225 (size before relaxing)
- .debug_str     0x0000bcb8      0x871 ./framework/SecLib/SecLib.o
-                               0x1011 (size before relaxing)
- .debug_str     0x0000c529      0x524 ./framework/RNG/Source/RNG.o
-                                0xee3 (size before relaxing)
- .debug_str     0x0000ca4d       0x52 ./framework/Panic/Source/Panic.o
-                                0x27e (size before relaxing)
- .debug_str     0x0000ca9f      0x59d ./framework/OSAbstraction/Source/fsl_os_abstraction_free_rtos.o
-                                0xfbc (size before relaxing)
- .debug_str     0x0000d03c       0x43 ./framework/ModuleInfo/ModuleInfo.o
-                                0x2e0 (size before relaxing)
- .debug_str     0x0000d07f      0x184 ./framework/Messaging/Source/Messaging.o
-                                0x3fa (size before relaxing)
- .debug_str     0x0000d203      0x1af ./framework/MemManager/Source/MemManager.o
-                                0x4ea (size before relaxing)
- .debug_str     0x0000d3b2       0xdf ./framework/Lists/GenericList.o
-                                0x39e (size before relaxing)
- .debug_str     0x0000d491      0x2df ./framework/LED/Source/LED.o
-                                0xd55 (size before relaxing)
- .debug_str     0x0000d770      0x79a ./framework/GPIO/GPIO_Adapter.o
-                               0x14d9 (size before relaxing)
- .debug_str     0x0000df0a      0x1b2 ./framework/FunctionLib/FunctionLib.o
-                                0x40c (size before relaxing)
- .debug_str     0x0000e0bc      0x604 ./framework/Flash/Internal/Flash_Adapter.o
-                                0xf4f (size before relaxing)
- .debug_str     0x0000e6c0     0x1a57 ./framework/DCDC/Source/DCDC.o
-                               0x2688 (size before relaxing)
- .debug_str     0x00010117      0x1e1 ./drivers/fsl_adc16.o
-                               0x12bd (size before relaxing)
- .debug_str     0x000102f8      0x841 ./drivers/fsl_clock.o
-                               0x12f3 (size before relaxing)
- .debug_str     0x00010b39      0x184 ./drivers/fsl_common.o
-                                0x5c5 (size before relaxing)
- .debug_str     0x00010cbd     0x115e ./drivers/fsl_dspi.o
-                               0x1da4 (size before relaxing)
- .debug_str     0x00011e1b       0xbe ./drivers/fsl_gpio.o
-                                0x8c0 (size before relaxing)
- .debug_str     0x00011ed9      0xbc8 ./drivers/fsl_i2c.o
-                               0x1838 (size before relaxing)
- .debug_str     0x00012aa1      0x6b2 ./drivers/fsl_lpuart.o
-                               0x1752 (size before relaxing)
- .debug_str     0x00013153      0xb07 ./drivers/fsl_ltc.o
-                               0x1174 (size before relaxing)
- .debug_str     0x00013c5a      0x414 ./drivers/fsl_tpm.o
-                               0x14ad (size before relaxing)
- .debug_str     0x0001406e      0x292 ./drivers/fsl_trng.o
-                                0xff4 (size before relaxing)
- .debug_str     0x00014300      0x33d ./board/board.o
-                               0x2875 (size before relaxing)
- .debug_str     0x0001463d      0x294 ./board/clock_config.o
-                               0x1306 (size before relaxing)
- .debug_str     0x000148d1       0x15 ./board/gpio_pins.o
-                                0x5b5 (size before relaxing)
- .debug_str     0x000148e6       0x7e ./board/pin_mux.o
-                                0x68f (size before relaxing)
- .debug_str     0x00014964       0x47 ./CMSIS/system_MKW41Z4.o
-                                0x34a (size before relaxing)
+ .debug_str     0x0000168f     0x10ea ./ieee_802.15.4/smac/source/SMAC.o
+                               0x19d1 (size before relaxing)
+ .debug_str     0x00002779     0x1ded ./ieee_802.15.4/phy/source/MKW41Z/PhyISR.o
+                               0x2620 (size before relaxing)
+ .debug_str     0x00004566      0x8f9 ./ieee_802.15.4/phy/source/MKW41Z/PhyPacketProcessor.o
+                               0x29ed (size before relaxing)
+ .debug_str     0x00004e5f      0x203 ./ieee_802.15.4/phy/source/MKW41Z/PhyPlmeData.o
+                                0xfb5 (size before relaxing)
+ .debug_str     0x00005062      0x625 ./ieee_802.15.4/phy/source/MKW41Z/PhyStateMachine.o
+                               0x16b8 (size before relaxing)
+ .debug_str     0x00005687      0x339 ./ieee_802.15.4/phy/source/MKW41Z/PhyTime.o
+                                0x835 (size before relaxing)
+ .debug_str     0x000059c0      0x3ab ./freertos/event_groups.o
+                                0x609 (size before relaxing)
+ .debug_str     0x00005d6b       0x38 ./freertos/fsl_tickless_lptmr.o
+                                0x268 (size before relaxing)
+ .debug_str     0x00005da3      0x1d3 ./freertos/heap_4.o
+                                0x3ee (size before relaxing)
+ .debug_str     0x00005f76       0x95 ./freertos/list.o
+                                0x362 (size before relaxing)
+ .debug_str     0x0000600b      0x168 ./freertos/port.o
+                                0x3a4 (size before relaxing)
+ .debug_str     0x00006173      0x554 ./freertos/queue.o
+                                0x8ad (size before relaxing)
+ .debug_str     0x000066c7      0xc06 ./freertos/tasks.o
+                               0x102c (size before relaxing)
+ .debug_str     0x000072cd      0x4dd ./freertos/timers.o
+                                0x844 (size before relaxing)
+ .debug_str     0x000077aa       0x40 ./framework/XCVR/MKW41Z4/cfgs_kw4x_3x_2x/fsl_xcvr_ant_config.o
+                               0x17e0 (size before relaxing)
+ .debug_str     0x000077ea       0x40 ./framework/XCVR/MKW41Z4/cfgs_kw4x_3x_2x/fsl_xcvr_ble_config.o
+                               0x17e0 (size before relaxing)
+ .debug_str     0x0000782a       0x43 ./framework/XCVR/MKW41Z4/cfgs_kw4x_3x_2x/fsl_xcvr_common_config.o
+                               0x17e3 (size before relaxing)
+ .debug_str     0x0000786d       0x4e ./framework/XCVR/MKW41Z4/cfgs_kw4x_3x_2x/fsl_xcvr_gfsk_bt_0p3_h_0p5_config.o
+                               0x17ee (size before relaxing)
+ .debug_str     0x000078bb       0x4f ./framework/XCVR/MKW41Z4/cfgs_kw4x_3x_2x/fsl_xcvr_gfsk_bt_0p5_h_0p32_config.o
+                               0x17ef (size before relaxing)
+ .debug_str     0x0000790a       0x4e ./framework/XCVR/MKW41Z4/cfgs_kw4x_3x_2x/fsl_xcvr_gfsk_bt_0p5_h_0p5_config.o
+                               0x17ee (size before relaxing)
+ .debug_str     0x00007958       0x4e ./framework/XCVR/MKW41Z4/cfgs_kw4x_3x_2x/fsl_xcvr_gfsk_bt_0p5_h_0p7_config.o
+                               0x17ee (size before relaxing)
+ .debug_str     0x000079a6       0x4e ./framework/XCVR/MKW41Z4/cfgs_kw4x_3x_2x/fsl_xcvr_gfsk_bt_0p5_h_1p0_config.o
+                               0x17ee (size before relaxing)
+ .debug_str     0x000079f4       0x4e ./framework/XCVR/MKW41Z4/cfgs_kw4x_3x_2x/fsl_xcvr_gfsk_bt_0p7_h_0p5_config.o
+                               0x17ee (size before relaxing)
+ .debug_str     0x00007a42       0x4a ./framework/XCVR/MKW41Z4/cfgs_kw4x_3x_2x/fsl_xcvr_mode_datarate_config.o
+                               0x17ea (size before relaxing)
+ .debug_str     0x00007a8c       0x40 ./framework/XCVR/MKW41Z4/cfgs_kw4x_3x_2x/fsl_xcvr_msk_config.o
+                               0x17e0 (size before relaxing)
+ .debug_str     0x00007acc       0x41 ./framework/XCVR/MKW41Z4/cfgs_kw4x_3x_2x/fsl_xcvr_zgbe_config.o
+                               0x17e1 (size before relaxing)
+ .debug_str     0x00007b0d     0x12f9 ./framework/XCVR/MKW41Z4/fsl_xcvr.o
+                               0x3403 (size before relaxing)
+ .debug_str     0x00008e06      0x58a ./framework/XCVR/MKW41Z4/fsl_xcvr_trim.o
+                               0x2af8 (size before relaxing)
+ .debug_str     0x00009390      0x295 ./framework/XCVR/MKW41Z4/ifr_radio.o
+                               0x1b83 (size before relaxing)
+ .debug_str     0x00009625      0x920 ./framework/TimersManager/Source/TMR_Adapter.o
+                               0x1300 (size before relaxing)
+ .debug_str     0x00009f45      0xd81 ./framework/TimersManager/Source/TimersManager.o
+                               0x179c (size before relaxing)
+ .debug_str     0x0000acc6      0x78c ./framework/SerialManager/Source/UART_Adapter/UART_Adapter.o
+                               0x11da (size before relaxing)
+ .debug_str     0x0000b452      0x7e9 ./framework/SerialManager/Source/SerialManager.o
+                               0x122b (size before relaxing)
+ .debug_str     0x0000bc3b      0x871 ./framework/SecLib/SecLib.o
+                               0x1017 (size before relaxing)
+ .debug_str     0x0000c4ac      0x524 ./framework/RNG/Source/RNG.o
+                                0xee9 (size before relaxing)
+ .debug_str     0x0000c9d0       0x52 ./framework/Panic/Source/Panic.o
+                                0x284 (size before relaxing)
+ .debug_str     0x0000ca22      0x59d ./framework/OSAbstraction/Source/fsl_os_abstraction_free_rtos.o
+                                0xfc2 (size before relaxing)
+ .debug_str     0x0000cfbf       0x43 ./framework/ModuleInfo/ModuleInfo.o
+                                0x2e6 (size before relaxing)
+ .debug_str     0x0000d002      0x184 ./framework/Messaging/Source/Messaging.o
+                                0x400 (size before relaxing)
+ .debug_str     0x0000d186      0x1af ./framework/MemManager/Source/MemManager.o
+                                0x4f0 (size before relaxing)
+ .debug_str     0x0000d335       0xdf ./framework/Lists/GenericList.o
+                                0x3a4 (size before relaxing)
+ .debug_str     0x0000d414      0x2df ./framework/LED/Source/LED.o
+                                0xd5b (size before relaxing)
+ .debug_str     0x0000d6f3      0x79a ./framework/GPIO/GPIO_Adapter.o
+                               0x14df (size before relaxing)
+ .debug_str     0x0000de8d      0x1b2 ./framework/FunctionLib/FunctionLib.o
+                                0x412 (size before relaxing)
+ .debug_str     0x0000e03f      0x604 ./framework/Flash/Internal/Flash_Adapter.o
+                                0xf55 (size before relaxing)
+ .debug_str     0x0000e643     0x1a57 ./framework/DCDC/Source/DCDC.o
+                               0x268e (size before relaxing)
+ .debug_str     0x0001009a      0x1e1 ./drivers/fsl_adc16.o
+                               0x12c3 (size before relaxing)
+ .debug_str     0x0001027b      0x841 ./drivers/fsl_clock.o
+                               0x12f9 (size before relaxing)
+ .debug_str     0x00010abc      0x184 ./drivers/fsl_common.o
+                                0x5cb (size before relaxing)
+ .debug_str     0x00010c40     0x115e ./drivers/fsl_dspi.o
+                               0x1daa (size before relaxing)
+ .debug_str     0x00011d9e       0xbe ./drivers/fsl_gpio.o
+                                0x8c6 (size before relaxing)
+ .debug_str     0x00011e5c      0xbc8 ./drivers/fsl_i2c.o
+                               0x183e (size before relaxing)
+ .debug_str     0x00012a24      0x6b2 ./drivers/fsl_lpuart.o
+                               0x1758 (size before relaxing)
+ .debug_str     0x000130d6      0xb07 ./drivers/fsl_ltc.o
+                               0x117a (size before relaxing)
+ .debug_str     0x00013bdd      0x414 ./drivers/fsl_tpm.o
+                               0x14b3 (size before relaxing)
+ .debug_str     0x00013ff1      0x292 ./drivers/fsl_trng.o
+                                0xffa (size before relaxing)
+ .debug_str     0x00014283      0x33d ./board/board.o
+                               0x287b (size before relaxing)
+ .debug_str     0x000145c0      0x294 ./board/clock_config.o
+                               0x130c (size before relaxing)
+ .debug_str     0x00014854       0x15 ./board/gpio_pins.o
+                                0x5bb (size before relaxing)
+ .debug_str     0x00014869       0x7e ./board/pin_mux.o
+                                0x695 (size before relaxing)
+ .debug_str     0x000148e7       0x47 ./CMSIS/system_MKW41Z4.o
+                                0x350 (size before relaxing)
 
 .debug_ranges   0x00000000     0x2330
  .debug_ranges  0x00000000       0x10 ./source/semihost_hardfault.o

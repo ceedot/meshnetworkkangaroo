@@ -1,7 +1,7 @@
 framework/SerialManager/Source/SerialManager.o \
  framework/SerialManager/Source/SerialManager.d: \
  ../framework/SerialManager/Source/SerialManager.c \
- C:/Users/Callum/Documents/MCUXpressoIDE_10.2.1_795/workspace/Projectwireless_examples_smac_wireless_messenger_freertos/source/app_preinclude.h \
+ C:/Users/Callum/Documents/MCUXpressoIDE_10.2.1_795/workspace/HostOfProjectwireless_examples_smac_wireless_messenger_freertos/source/app_preinclude.h \
  ../framework/SerialManager/Interface/SerialManager.h \
  ../framework/common/EmbeddedTypes.h ../framework/Panic/Interface/Panic.h \
  ../framework/MemManager/Interface/MemManager.h \
@@ -18,7 +18,7 @@ framework/SerialManager/Source/SerialManager.o \
  ../board/pin_mux.h \
  ../framework/SerialManager/Source/UART_Adapter/UART_Adapter.h
 
-C:/Users/Callum/Documents/MCUXpressoIDE_10.2.1_795/workspace/Projectwireless_examples_smac_wireless_messenger_freertos/source/app_preinclude.h:
+C:/Users/Callum/Documents/MCUXpressoIDE_10.2.1_795/workspace/HostOfProjectwireless_examples_smac_wireless_messenger_freertos/source/app_preinclude.h:
 
 ../framework/SerialManager/Interface/SerialManager.h:
 

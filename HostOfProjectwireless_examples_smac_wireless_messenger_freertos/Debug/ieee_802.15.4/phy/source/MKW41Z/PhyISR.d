@@ -1,7 +1,7 @@
 ieee_802.15.4/phy/source/MKW41Z/PhyISR.o \
  ieee_802.15.4/phy/source/MKW41Z/PhyISR.d: \
  ../ieee_802.15.4/phy/source/MKW41Z/PhyISR.c \
- C:/Users/Callum/Documents/MCUXpressoIDE_10.2.1_795/workspace/Projectwireless_examples_smac_wireless_messenger_freertos/source/app_preinclude.h \
+ C:/Users/Callum/Documents/MCUXpressoIDE_10.2.1_795/workspace/HostOfProjectwireless_examples_smac_wireless_messenger_freertos/source/app_preinclude.h \
  ../framework/common/EmbeddedTypes.h \
  ../ieee_802.15.4/phy/source/MKW41Z/Phy.h \
  ../ieee_802.15.4/phy/interface/PhyInterface.h \
@@ -19,7 +19,7 @@ ieee_802.15.4/phy/source/MKW41Z/PhyISR.o \
  ../framework/XCVR/MKW41Z4/fsl_xcvr_trim.h \
  ../framework/XCVR/MKW41Z4/fsl_xcvr.h
 
-C:/Users/Callum/Documents/MCUXpressoIDE_10.2.1_795/workspace/Projectwireless_examples_smac_wireless_messenger_freertos/source/app_preinclude.h:
+C:/Users/Callum/Documents/MCUXpressoIDE_10.2.1_795/workspace/HostOfProjectwireless_examples_smac_wireless_messenger_freertos/source/app_preinclude.h:
 
 ../framework/common/EmbeddedTypes.h:
 

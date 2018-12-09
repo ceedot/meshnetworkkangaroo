@@ -1,6 +1,6 @@
 drivers/fsl_lpuart_freertos.o drivers/fsl_lpuart_freertos.d: \
  ../drivers/fsl_lpuart_freertos.c \
- C:/Users/Callum/Documents/MCUXpressoIDE_10.2.1_795/workspace/Projectwireless_examples_smac_wireless_messenger_freertos/source/app_preinclude.h \
+ C:/Users/Callum/Documents/MCUXpressoIDE_10.2.1_795/workspace/HostOfProjectwireless_examples_smac_wireless_messenger_freertos/source/app_preinclude.h \
  ../drivers/fsl_lpuart_freertos.h ../source/FreeRTOSConfig.h \
  ../drivers/fsl_lpuart.h ../drivers/fsl_common.h \
  ../CMSIS/fsl_device_registers.h ../CMSIS/MKW41Z4.h \
@@ -13,7 +13,7 @@ drivers/fsl_lpuart_freertos.o drivers/fsl_lpuart_freertos.d: \
  ../freertos/timers.h ../freertos/task.h ../freertos/list.h \
  ../freertos/semphr.h ../freertos/queue.h
 
-C:/Users/Callum/Documents/MCUXpressoIDE_10.2.1_795/workspace/Projectwireless_examples_smac_wireless_messenger_freertos/source/app_preinclude.h:
+C:/Users/Callum/Documents/MCUXpressoIDE_10.2.1_795/workspace/HostOfProjectwireless_examples_smac_wireless_messenger_freertos/source/app_preinclude.h:
 
 ../drivers/fsl_lpuart_freertos.h:
 

@@ -1,7 +1,7 @@
 ieee_802.15.4/phy/source/MKW41Z/PhyPacketProcessor.o \
  ieee_802.15.4/phy/source/MKW41Z/PhyPacketProcessor.d: \
  ../ieee_802.15.4/phy/source/MKW41Z/PhyPacketProcessor.c \
- C:/Users/Callum/Documents/MCUXpressoIDE_10.2.1_795/workspace/Projectwireless_examples_smac_wireless_messenger_freertos/source/app_preinclude.h \
+ C:/Users/Callum/Documents/MCUXpressoIDE_10.2.1_795/workspace/HostOfProjectwireless_examples_smac_wireless_messenger_freertos/source/app_preinclude.h \
  ../framework/common/EmbeddedTypes.h \
  ../ieee_802.15.4/phy/interface/MpmInterface.h \
  ../ieee_802.15.4/phy/interface/PhyInterface.h \
@@ -26,7 +26,7 @@ ieee_802.15.4/phy/source/MKW41Z/PhyPacketProcessor.o \
  ../framework/XCVR/MKW41Z4/ifr_radio.h \
  ../framework/Flash/Internal/Flash_Adapter.h ../drivers/fsl_flash.h
 
-C:/Users/Callum/Documents/MCUXpressoIDE_10.2.1_795/workspace/Projectwireless_examples_smac_wireless_messenger_freertos/source/app_preinclude.h:
+C:/Users/Callum/Documents/MCUXpressoIDE_10.2.1_795/workspace/HostOfProjectwireless_examples_smac_wireless_messenger_freertos/source/app_preinclude.h:
 
 ../framework/common/EmbeddedTypes.h:
 
