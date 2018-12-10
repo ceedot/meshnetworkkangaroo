@@ -1,0 +1,85 @@
+<html>
+<head>
+ <meta charset="utf-8">
+ <title>Switch On and Off LEDs of mesh nework</title>
+</head>
+
+<body>
+ <header>
+  <h1>Switch On and Off LEDs of mesh nework</h1>
+ </header>
+
+ <section id="main" role="main">
+  <button id="led1On">Start</button>
+  <button id="led1On">Switch LED 1 ON</button>
+  <button id="led1Off">Switch LED 1 OFF</button>
+  <button id="led2On">Switch LED 2 ON</button>
+  <button id="led2Off">Switch LED 2 OFF</button>
+  <button id="led3On">Switch LED 3 ON</button>
+  <button id="led3Off">Switch LED 3 OFF</button>
+ </section>
+ <script>
+(function() {
+
+ var button1On = document.querySelector('#led1On');
+ var button1Off= document.querySelector('#led1Off');
+ var button2On = document.querySelector('#led2On');
+ var button2Off= document.querySelector('#led2Off');
+ var button3On = document.querySelector('#led3On');
+ var button3Off= document.querySelector('#led3Off');
+ 
+ var channel = '';
+
+ function light1On() {
+ p.publish({
+  channel : channel,
+  message : a
+  });
+ }
+
+function light1Off() {
+ p.publish({
+  channel : channel,
+  message : b
+  });
+ } 
+function light2On() {
+ p.publish({
+  channel : channel,
+  message : c
+  });
+ }
+
+function light2Off() {
+ p.publish({
+  channel : channel,
+  message : d
+  });
+ } 
+  function light3On() {
+ p.publish({
+  channel : channel,
+  message : e
+  });
+ }
+
+ function light3Off() {
+ p.publish({
+  channel : channel,
+  message : f
+  });
+ } 
+
+    // Click 
+ button1On.addEventListener("click",light1On);
+ button1Off.addEventListener("click",light1Off);
+ button2On.addEventListener("click",light2On);
+ button2Off.addEventListener("click",light2Off);
+ button3On.addEventListener("click",light3On);
+ button3Off.addEventListener("click",light3Off);
+
+})();
+ </script>
+ 
+</body>
+</html>
