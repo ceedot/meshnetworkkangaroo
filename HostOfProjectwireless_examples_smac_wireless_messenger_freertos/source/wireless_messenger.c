@@ -450,7 +450,7 @@ void main_task(uint32_t param)
 	  	  Send_Data(DataToSend);
 	  	  Statez=2;
 	  	  Timeout=0;
-	  	  Serial_Print(mAppSer,"hello1", gAllowToBlock_d);
+	  	  //Serial_Print(mAppSer,"hello1", gAllowToBlock_d);
 	  	  break;
 	  	case 2:
 	  		Timeout++;
@@ -470,7 +470,7 @@ void main_task(uint32_t param)
 	  			Statez=3;
 	  			NodeNum2=2;
 	  		}
-	  		Serial_Print(mAppSer,"hello2", gAllowToBlock_d);
+	  		//Serial_Print(mAppSer,"hello2", gAllowToBlock_d);
 	  		break;
 	  	case 3:
 	  		if(NodeNum2==NodeNum){
@@ -496,7 +496,7 @@ void main_task(uint32_t param)
   				}
 	  		}
 	  		Timeout=0;
-	  		Serial_Print(mAppSer,"hello3", gAllowToBlock_d);
+	  		//Serial_Print(mAppSer,"hello3", gAllowToBlock_d);
 	  		break;
 	  	case 4:
 	  		Timeout++;
@@ -516,7 +516,7 @@ void main_task(uint32_t param)
 	  			Statez=3;
 	  			NodeNum2++;
 	  		}
-	  		Serial_Print(mAppSer,"hello4", gAllowToBlock_d);
+	  		//Serial_Print(mAppSer,"hello4", gAllowToBlock_d);
 	  		break;
       }
       (void)OSA_EventWait(gTaskEvent, gEventsAll_c, FALSE, 100 ,&gTaskEventFlags);
