@@ -459,7 +459,7 @@ void main_task(uint32_t param)
 	  			if(RxDataz[0]==(char)1&&RxDataz[1]==(char)0&&RxDataz[2]==(char)0&&RxDataz[3]==Temp[NodeNum-2]){
 	  				Statez=1;
 	  				Timeouts[NodeNum-2]=0;
-	  				LED_StopFlashingAllLeds();
+	  				//LED_StopFlashingAllLeds();
 	  				NodeNum++;
 	  				if(NodeNum>IDMax){
 	  					NodeNum=2;
@@ -478,7 +478,7 @@ void main_task(uint32_t param)
 	  		}
 	  		if(NodeNum2>IDMax){
 	  			Timeouts[NodeNum-2]=1;
-	  			LED_StartSerialFlash(LED1);
+	  			//LED_StartSerialFlash(LED1);
 	  		}
 	  	    else if(NodeNum2!=NodeNum){
 	  			DataToSend[0]=(char)NodeNum2;
@@ -505,7 +505,7 @@ void main_task(uint32_t param)
 	  			if(RxDataz[0]==(char)1&&RxDataz[3]==Temp[NodeNum-2]){
 	  				Statez=1;
 	  				Timeouts[NodeNum-2]=0;
-	  				LED_StopFlashingAllLeds();
+	  				//LED_StopFlashingAllLeds();
 	  				NodeNum++;
 	  				if(NodeNum>IDMax){
 	  					NodeNum=2;
